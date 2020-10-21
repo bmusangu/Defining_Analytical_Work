@@ -13,7 +13,7 @@ Another term that we should seek to understand is ``gender gap``. In layman’s 
 ## Task
 
 1. Provid a working definition of analytical work.
-2. To develop a working definition of ``analytical work``, we will refer to the occupation-level characteristics collected in the [O*NET database](https://www.onetcenter.org/database.html#all-files).
+2. To develop a working definition of ``analytical work``, will refer to the occupation-level characteristics collected in the [O*NET database](https://www.onetcenter.org/database.html#all-files).
     -  The O*NET database is comprised of survey responses from experts and current employees about the requirements and responsibilities of each occupation.
 3. Then use machine learning to assign a category or score to occupations by labeling a subset of occupations as “analytical” or not and predicting the rest. (e.g., pages 29-31 in this paper, which is doing a similar thing for predicting automation: “Future of Employment” by Frey and Osborne)
 4. Explore how this characteristic is distributed across the work force by gender.
